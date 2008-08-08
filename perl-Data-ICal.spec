@@ -8,7 +8,7 @@
 Summary:	Data::ICal.pm - Generates iCalendar (RFC 2445) calendar files
 Name:		perl-Data-ICal
 Version:	0.13
-Release:	3
+Release:	4
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
@@ -18,7 +18,6 @@ URL:		http://search.cpan.org/dist/Data-ICal/
 BuildRequires:	perl-Class-ReturnValue
 BuildRequires:	perl-MIME
 BuildRequires:	perl-Test-LongString
-BuildRequires:	perl-Test-More
 BuildRequires:	perl-Test-NoWarnings
 BuildRequires:	perl-Test-Simple
 BuildRequires:	perl-Test-Warn
