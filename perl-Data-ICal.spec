@@ -7,13 +7,13 @@
 %define	pnam	ICal
 Summary:	Data::ICal.pm - Generates iCalendar (RFC 2445) calendar files
 Name:		perl-Data-ICal
-Version:	0.17
+Version:	0.22
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://search.cpan.org/CPAN/authors/id/J/JE/JESSE/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	81ddac91a2a98ea891ae7750e2e4ca07
+Source0:	http://search.cpan.org/CPAN/authors/id/A/AL/ALEXMV/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	7ba398c22481d8de8e2bb317173b3483
 URL:		http://search.cpan.org/dist/Data-ICal/
 BuildRequires:	perl-Class-ReturnValue
 BuildRequires:	perl-Test-LongString
