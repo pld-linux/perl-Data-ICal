@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Data
 %define	pnam	ICal
 Summary:	Data::ICal.pm - Generates iCalendar (RFC 2445) calendar files
